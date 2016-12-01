@@ -5,4 +5,4 @@ Construir su propio juego de varios jugadores de ajedrez usando Socket.io siguie
 
 En este laboratorio, vamos a hacer un juego de ajedrez multijugador que, cuando sus movimientos se muestran en la pantalla de tu oponente en tiempo real. Instantáneamente!
 
-# # Descripción general de laboratorio
+# Descripción general de laboratorio
