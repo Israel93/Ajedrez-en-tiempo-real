@@ -15,3 +15,37 @@ Después de completar los ejercicios de esta práctica de laboratorio, usted ser
 - Publica tu servidor en Azure desde GitHub
 
 Tiempo estimado para completar esta práctica: 60 minutos
+
+# Requisitos previos de software
+
+Con el fin de completar el laboratorio, se necesita lo siguiente pre-requisitos
+
+- Windows 10, Mac OS 10 Yosemite, o Linux
+- Código Visual Studio
+- Node.js
+
+# cuentas en línea de requisitos previos
+
+Con el fin de completar el laboratorio, se necesitan los siguientes requisitos previos cuentas en línea
+
+- Cuenta de Microsoft - necesarios para utilizar Microsoft Azure
+- Microsoft Azure suscripción - Una versión de prueba es suficiente
+- GitHub - necesarios para implementar código para Azure
+
+# Una nota sobre el uso de pasos completados
+
+Este laboratorio contiene el código para cada uno de los pasos completados abajo. Siéntase libre de ver o utilizar el código de los pasos si se pierde o necesita ayuda. Si reemplaza el código de uno de los pasos, o se salta algunos pasos, tendrá que instalar los paquetes dependncies nodo para ese paso. Este paso no es necesario si la están siguiendo, junto con los siguientes pasos
+
+ > npm install
+
+# Ejercicio 1: Crear una aplicación de nodo y ejecutarlo localmente
+
+# Guía 
+Vamos a crear una aplicación web Node.js básicos que sirve algunos de contenido HTML utilizando el marco Express y ejecutarlo localmente.
+
+# Crear la carpeta del proyecto
+
+Abra el símbolo del sistema Node.js de la barra de tareas o mediante su búsqueda en Inicio.
+
+![Alt text](https://github.com/dwcares/RealTimeWeb-HOL/blob/master/Images/1.png "Optional title")
+
