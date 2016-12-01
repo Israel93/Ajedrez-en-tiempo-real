@@ -45,34 +45,34 @@ Vamos a crear una aplicación web Node.js básicos que sirve algunos de contenid
 
 # Crear la carpeta del proyecto
 
-1.Abra el símbolo del sistema Node.js de la barra de tareas o mediante su búsqueda en Inicio.
+1. Abra el símbolo del sistema Node.js de la barra de tareas o mediante su búsqueda en Inicio.
 
 ![Alt text](https://github.com/dwcares/RealTimeWeb-HOL/blob/master/Images/1.png "Optional title")
 
-2.Hacer una nueva carpeta llamada ajedrez que contendrá nuestro código fuente y navegar hacia él
+2. Hacer una nueva carpeta llamada ajedrez que contendrá nuestro código fuente y navegar hacia él
 
 > mkdir chess
 > cd chess
 
-3.Después de crear la carpeta, ahora lo que necesita para crear los metadatos paquete para su aplicación nodo. Este archivo incluirá toda la decencia de proyectos.
+3. Después de crear la carpeta, ahora lo que necesita para crear los metadatos paquete para su aplicación nodo. Este archivo incluirá toda la decencia de proyectos.
 
 > npm init
 
-4.Esto le guiará a través de un tutorial, mantenga los valores predeterminados excepto nombre de su archivo app.js
+4. Esto le guiará a través de un tutorial, mantenga los valores predeterminados excepto nombre de su archivo app.js
 
 ![Alt text](https://github.com/dwcares/RealTimeWeb-HOL/blob/master/Images/2.png "Optional title")
 
   > Nota: El archivo debe ser nombrado app.js o server.js para ejecutarse en Azure.
   
-5.Listar el contenido de carpetas y abrir el archivo de paquete
+5. Listar el contenido de carpetas y abrir el archivo de paquete
 
 > dir
 
-6.Abra la carpeta actual en el código de Visual Studio escribiendo
+6. Abra la carpeta actual en el código de Visual Studio escribiendo
 
 > code
 
-7.Observe a su metadatos del proyecto se muestra en código de Visual Studio haciendo clic en el package.json archivo.
+7. Observe a su metadatos del proyecto se muestra en código de Visual Studio haciendo clic en el package.json archivo.
 
 ![Alt text](https://github.com/dwcares/RealTimeWeb-HOL/blob/master/Images/3.png "Optional title")
 
