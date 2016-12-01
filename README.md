@@ -63,3 +63,20 @@ Vamos a crear una aplicación web Node.js básicos que sirve algunos de contenid
 ![Alt text](https://github.com/dwcares/RealTimeWeb-HOL/blob/master/Images/2.png "Optional title")
 
   > Nota: El archivo debe ser nombrado app.js o server.js para ejecutarse en Azure.
+  
+5.Listar el contenido de carpetas y abrir el archivo de paquete
+
+> dir
+
+6.Abra la carpeta actual en el código de Visual Studio escribiendo
+
+> code
+
+7.Observe a su metadatos del proyecto se muestra en código de Visual Studio haciendo clic en el package.json archivo.
+
+![Alt text](https://github.com/dwcares/RealTimeWeb-HOL/blob/master/Images/3.png "Optional title")
+
+# Crear un servidor web sencillo
+
+1. Haga clic en el botón nuevo archivo y crear un nuevo archivo llamado app.js
+
