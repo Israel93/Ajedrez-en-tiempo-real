@@ -61,4 +61,5 @@ Vamos a crear una aplicación web Node.js básicos que sirve algunos de contenid
 4.Esto le guiará a través de un tutorial, mantenga los valores predeterminados excepto nombre de su archivo app.js
 
 ![Alt text](https://github.com/dwcares/RealTimeWeb-HOL/blob/master/Images/2.png "Optional title")
-       Nota: El archivo debe ser nombrado app.js o server.js para ejecutarse en Azure.
+
+  > Nota: El archivo debe ser nombrado app.js o server.js para ejecutarse en Azure.
