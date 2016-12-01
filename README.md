@@ -34,7 +34,7 @@ Con el fin de completar el laboratorio, se necesitan los siguientes requisitos p
 
 # Una nota sobre el uso de pasos completados
 
-Este laboratorio contiene el código para cada uno de los pasos completados abajo. Siéntase libre de ver o utilizar el código de los pasos si se pierde o necesita ayuda. Si reemplaza el código de uno de los pasos, o se salta algunos pasos, tendrá que instalar los paquetes dependncies nodo para ese paso. Este paso no es necesario si la están siguiendo, junto con los siguientes pasos
+Este laboratorio contiene el código para cada uno de los pasos completados abajo. Siéntase libre de ver o utilizar el código de los pasos si se pierde o necesita ayuda. Si reemplaza el código de uno de los pasos, o se salta algunos pasos, tendrá que instalar los paquetes dependencias nodo para ese paso. Este paso no es necesario si la están siguiendo, junto con los siguientes pasos
 
  > npm install
 
@@ -45,7 +45,21 @@ Vamos a crear una aplicación web Node.js básicos que sirve algunos de contenid
 
 # Crear la carpeta del proyecto
 
-Abra el símbolo del sistema Node.js de la barra de tareas o mediante su búsqueda en Inicio.
+1.Abra el símbolo del sistema Node.js de la barra de tareas o mediante su búsqueda en Inicio.
 
 ![Alt text](https://github.com/dwcares/RealTimeWeb-HOL/blob/master/Images/1.png "Optional title")
+
+2.Hacer una nueva carpeta llamada ajedrez que contendrá nuestro código fuente y navegar hacia él
+
+> mkdir chess
+> cd chess
+
+3.Después de crear la carpeta, ahora lo que necesita para crear los metadatos paquete para su aplicación nodo. Este archivo incluirá toda la decencia de proyectos.
+
+> npm init
+
+4.Esto le guiará a través de un tutorial, mantenga los valores predeterminados excepto nombre de su archivo app.js
+
+![Alt text](https://github.com/dwcares/RealTimeWeb-HOL/blob/master/Images/2.png "Optional title")
+
 
